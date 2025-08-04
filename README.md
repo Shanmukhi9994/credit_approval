@@ -20,6 +20,14 @@ The system includes:
 
 ---
 
+## Output Screenshots
+
+![Screenshot 1](outputs/Screenshot%202025-08-04%20155858.png)
+![Screenshot 2](outputs/Screenshot%202025-08-04%20155911.png)
+![Screenshot 3](outputs/Screenshot%202025-08-04%20155926.png)
+![Screenshot 4](outputs/Screenshot%202025-08-04%20155938.png)
+
+
 ## Features
 
 - Custom customer_id as primary key for customers
